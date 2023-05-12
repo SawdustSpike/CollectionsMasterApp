@@ -9,7 +9,7 @@ namespace CollectionsMasterConsoleUI
         {
             //TODO: Follow the steps provided in the comments under each region.
             //Make the console formatted to display each section well
-            //Utlilize the method stubs at the bottom for the methods you must create ⬇⬇⬇
+            //Utilize the method stubs at the bottom for the methods you must create ⬇⬇⬇
 
             #region Arrays
             //TODO: Create an integer Array of size 50
